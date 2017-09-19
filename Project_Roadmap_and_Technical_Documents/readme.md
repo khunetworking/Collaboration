@@ -1,6 +1,6 @@
 # KOREN-Platform Technical Documents
 
-|No.|Title|Writer|Date|Remarks|
+|No.|Title|Writer|Date|Remarks  |
 |:---:|:-----|:--------|:-----|:--------|
 |KOREN #1|오픈 SmartX 플랫폼에 통합된 SmartX Box의 원격 자동설치 및 제어|GIST OF@KOREN Team|2015.12.12|KOREN 2015 과제|
 |KOREN #2|오픈 SmartX 플랫폼을 위한 SmartX Box 기반 KOREN L3 연동|GIST OF@KOREN Team|2015.12.11|KOREN 2015 과제|
