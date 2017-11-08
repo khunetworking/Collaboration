@@ -1,3 +1,5 @@
+![](https://github.com/KOREN-Platform/Collaboration/blob/master/Images/collarboration_home.PNG)
+
 # Collaboration
 --------------------------------------
 
