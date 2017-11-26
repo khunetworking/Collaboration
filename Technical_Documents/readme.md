@@ -11,3 +11,4 @@
 |KOREN #7|컨테이너 기반 Smart Air IoT-Cloud 응용 서비스 실증 데모|JNU Team|2017.11.?|KOREN 2017 과제|
 |KOREN #8|컨테이너 기반 Smart Air IoT-Cloud 응용 서비스 실증 데모|KU Team|2017.11.?|KOREN 2017 과제|
 |KOREN #9|2종 이상의 응용 서비스 지원 도구 SW (서비스 합성 GUI, IoT 데이터 분석 등)|안양대 Team|2017.11.?|KOREN 2017 과제|
+|KOREN #10|KOREN SmartX 오픈 플랫폼 단계별 구축 전략|석승준 교수|2017.11.?|KOREN 2017 과제|
